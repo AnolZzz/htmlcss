@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+div{
+    background: red;
+    margin-block-start: 1px;
+    text-align: center;
+
+    border-width: 3px; /*propiedad border sola; modifica:tamaño(width...)style,color*/
+    border-style: solid; /*para q funcione, definir estilo*/
+    border-color: white;
+    border-radius: 5px;
+    width: 100px;
+    height: 10px;
+    margin-top: 20%;
+    font-size: 50px;  /*definirlo por porsentajes, lo hace mas manipulable*/
+    border-bottom: 300px solid transparent; /*borra*/
+
+}
+input{
+    margin-top: 0%;
+    height: 20px;
+    width: 100px;
+    padding: 6px 9px;
+    border: none;
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
+    color: red;
+    background: transparent;
+    border-radius: 2px;
+}
+
+.box{
+    padding:25px ;
+    border: 10px solid black;
+
+}
+
+.boxsizing{
+    box-sizing: border-box;
+    padding:25px ;
+    border: 10px solid black;
+}
+
+

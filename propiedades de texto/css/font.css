@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "pop";
+    src: url(fonts/NotoSansHanunoo-Regular.ttf) format("trutype");
+    font-weight: 400;
+}
+ /*definiendo fuente con su font, podemos definir otro font-weight*/  
+

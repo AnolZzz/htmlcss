@@ -1,0 +1,13 @@
+li {
+    color: green;
+
+}
+span{
+    color: gold;
+}
+.secondlist{       /*clases*/  
+    color: #808080;
+}
+#ahora{           /*id*/  
+    color: #2c2966;
+}
