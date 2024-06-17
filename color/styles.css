@@ -1,0 +1,11 @@
+.box{
+    padding: 50px;
+    background: rgb(200, 200, 200); /*255 max cada component. rgba picker en googles*/
+    margin: 20px;  
+    margin-left: 150px; 
+    background: #1133bb; /*0123456789abcdef dos o un digito para cada color*/
+    background: #111c;
+    color: white;
+    text-align: center;
+    border-top: 5px solid hsl(20/*0red,120  green,240blue*/, 100%, 20%);
+}
