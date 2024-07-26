@@ -1,0 +1,14 @@
+
+tr,td{
+    border: 1px solid #000;
+    text-align: center;
+    font-family: sans-serif;
+} 
+
+td{
+    color: #333;
+}
+
+table{
+    width: 100%;
+}
